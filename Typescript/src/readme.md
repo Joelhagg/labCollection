@@ -1,0 +1,1 @@
+För att starta kompilatorn ange `tsc --watch` 
